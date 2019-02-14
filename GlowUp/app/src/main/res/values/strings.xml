@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Glow Up</string>
+    <string name="hint">Connect Device!</string>
+    <string name="device_btn">Show Paired Devices</string>
+    <string name="drunk_level">0</string>
+    <string name="one_shot">one shot</string>
+    <string name="a_wine">a gulp of wine</string>
+    <string name="reset">reset</string>
+    <string name="disconnect">disconnect all</string>
+</resources>
